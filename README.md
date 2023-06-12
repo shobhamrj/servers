@@ -1,2 +1,2 @@
 # old-school-servers
-servers wrote in c and c++ that uses tcp and udp protocol
+servers wrote in c/c++ that demonstrates tcp and udp protocol
